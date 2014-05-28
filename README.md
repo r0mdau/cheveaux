@@ -4,7 +4,7 @@
 Langages Orientés Objets : `Java`
 
 ## Auteurs
-* Thomas Lorenzato
+* [Thomas Lorenzato](https://github.com/thomasgheberg/)
 * [Romain Dauby](https://github.com/r0mdau/)
 
 ## Dates de début
